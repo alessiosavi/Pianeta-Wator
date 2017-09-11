@@ -1,0 +1,36 @@
+------DATI INIZIALI------
+Durata della simulazione : 100 Crononi
+Intervallo di tempo analizzato: 20 Crononi
+Popolazione iniziale Savi-Fish: 10
+Tempo di riproduzione dei Savi-Fish: 15 Crononi
+Longevita' Savi-Fish: 40 Crononi
+Popolazione iniziale Bu-Shark: 20
+Tempo di riproduzione dei Bu-Shark: 10 Crononi
+Longevita' Bu-Shark: 15 Crononi
+-------------------------
+
+Intervallo: 1
+Popolazione dei Savi-Fish: 10
+Popolazione dei Bu-Shark: 20
+
+Intervallo: 2
+Popolazione dei Savi-Fish: 39
+Popolazione dei Bu-Shark: 28
+
+Intervallo: 3
+Popolazione dei Savi-Fish: 108
+Popolazione dei Bu-Shark: 37
+
+Intervallo: 4
+Popolazione dei Savi-Fish: 329
+Popolazione dei Bu-Shark: 48
+
+Intervallo: 5
+Popolazione dei Savi-Fish: 947
+Popolazione dei Bu-Shark: 77
+
+------DATI INIZIALI------
+Popolazione finale dei Savi-Fish: 1687
+Popolazione finale dei Bu-Shark: 111
+
+-------------------------
